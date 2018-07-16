@@ -1,5 +1,5 @@
 
-# Project Title
+# Bloxorz Solvers
 
 The solvers for game Bloxorz using DFS, BFS, and Best-First-Search
 
